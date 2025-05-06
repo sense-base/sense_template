@@ -1,5 +1,5 @@
 <div style="text-align: center;" align="center">
-  <img src="docs/figs/sense_template.svg" alt="" width="600"/>
+  <img src="docs/figs/sense_template.svg" alt="" width="800"/>
   <h1> sense_template </h1>
 </div>
 
@@ -18,3 +18,13 @@ Please see the [README](https://github.com/sense-base/.github/blob/main/profile/
 git clone git@github.com:sense-base/sense_template.git
 ```
 
+## :nut_and_bolt: Create package from scratch
+```
+ros2 pkg create sense_template --build-type ament_python
+```
+
+## Local development with pre-commit
+See [here](https://github.com/sense-base/.github/tree/main/profile#using-uv) to install uv virtual environment.
+```
+uv run pre-commit run -a
+```
