@@ -4,7 +4,7 @@
 </div>
 
 ## :eyeglasses: Overview
-This repository contains a template for packages of the SENSE-BASE organisation.
+This repository contains a template for ROS2 packages with [humble distribution](https://docs.ros.org/en/rolling/Releases.html#list-of-distributions) of the SENSE-BASE organisation.
 
 
 ## :school_satchel: Getting started
@@ -22,6 +22,9 @@ git clone git@github.com:sense-base/sense_template.git
 ```
 ros2 pkg create sense_template --build-type ament_python
 ```
+* NOTES.
+  * Pure Python packages should use the ament_python build type in most cases. 
+  * To create an ament_python package, see Creating your first ROS 2 package. ament_cmake_python should only be used in cases where that is not possible, like when mixing C/C++ and Python code. [:link:](https://docs.ros.org/en/humble/How-To-Guides/Ament-CMake-Python-Documentation.html#ament-cmake-python-user-documentation)
 
 ## Local development with pre-commit
 See [here](https://github.com/sense-base/.github/tree/main/profile#using-uv) to install uv virtual environment.
