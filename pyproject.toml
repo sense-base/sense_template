@@ -3,6 +3,7 @@ name = "sense_template"
 dynamic = ["version"]
 dependencies = []
 requires-python = ">=3.10"
+description = "dynamic"
 
 [project.optional-dependencies]
 dev = [
@@ -11,6 +12,10 @@ dev = [
   "mypy==1.13.0",
   "docformatter==1.7.5", 
 ]
+
+[tool.setuptools.packages.find]
+include = ["sense_template"]  # package names should match these glob patterns (["*"] by default)
+exclude = ["resource"]
 
 [tool.mypy]
 python_version = "3.10"
