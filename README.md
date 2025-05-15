@@ -33,4 +33,3 @@ See [here](https://github.com/sense-base/.github/tree/main/profile#using-uv) to 
 ```
 uv run pre-commit run -a
 ```
-
