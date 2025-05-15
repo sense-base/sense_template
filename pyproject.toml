@@ -13,10 +13,6 @@ dev = [
   "docformatter==1.7.5", 
 ]
 
-[tool.setuptools.packages.find]
-include = ["sense_template"]  # package names should match these glob patterns (["*"] by default)
-exclude = ["resource"]
-
 [tool.mypy]
 python_version = "3.10"
 ignore_missing_imports = true
