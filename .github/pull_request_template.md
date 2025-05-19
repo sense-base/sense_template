@@ -20,11 +20,10 @@ Please delete options accordingly to the description.
 - [ ] I have made corresponding changes to the documentation 
 - [ ] My changes generate no new warnings 
 - [ ] I have commented my code, particularly in hard-to-understand areas 
-- [ ] I have read the [`CONTRIBUTING`](https://github.com/sense-base/base/blob/main/CONTRIBUTING.md) docs
+- [ ] I have read the [`CONTRIBUTING`](https://github.com/sense-base/sense_template/blob/main/CONTRIBUTING.md) docs
 - [ ] My code passes, following the style guidelines `pre-commit run -a` 
 - [ ] My code is properly tested with `pytest -sv tests`
+- [ ] Make sure your branch is up-to-date with main branch. See step 4 in [`CONTRIBUTING`](https://github.com/sense-base/sense_template/blob/main/CONTRIBUTING.md#pull-request-pr-and-merge-to-main-branch).
 - [ ] I have requested review to this PR.
 - [ ] I have addressed and marked as resolved all the review comments in my PR.
-- [ ] Make sure your branch is up-to-date with main branch. See step 4 in [`CONTRIBUTING`](https://github.com/sense-base/base/blob/main/CONTRIBUTING.md#pull-request-pr-and-merge-to-main-branch).
 - [ ] Finally, I have selected `squash and merge`
-

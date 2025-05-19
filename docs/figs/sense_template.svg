@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="500"
+   width="800"
    height="150"
-   viewBox="0 0 132.29167 39.687501"
+   viewBox="0 0 211.66667 39.687501"
    version="1.1"
    id="svg8"
    inkscape:version="1.2.1 (1:1.2.1+202210291243+9c6d41e410)"
@@ -39,7 +39,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88813359"
-     inkscape:cx="283.17812"
+     inkscape:cx="284.30408"
      inkscape:cy="-76.00208"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -64,12 +64,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-86.999983)"><rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000eff;stroke-width:1.89516;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:0.34278594;fill:#ddedff;fill-opacity:1;stroke:none;stroke-width:2.1776;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect113"
-       width="172.09724"
-       height="56.578938"
-       x="-7.7308269"
-       y="80.020554" /><rect
+       width="228.3558"
+       height="56.296497"
+       x="-7.5896068"
+       y="80.161774" /><rect
        style="opacity:1;fill:#daeafb;fill-opacity:1;stroke:none;stroke-width:0.135868;stroke-linecap:square;stroke-linejoin:round;paint-order:markers fill stroke"
        id="rect1730"
        width="35.475533"
@@ -99,17 +99,17 @@
        id="rect981"
        width="61.663254"
        height="10.490835"
-       x="50.714512"
-       y="102.22598" /><text
+       x="85.85466"
+       y="101.52027" /><text
        id="text985"
-       y="108.89735"
-       x="57.076969"
+       y="108.72081"
+       x="91.68795"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.43555px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0262658"
        xml:space="preserve"><tspan
          id="tspan983"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.43555px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.0262658"
-         y="108.89735"
-         x="57.076969"
+         y="108.72081"
+         x="91.68795"
          sodipodi:role="line">sense_template</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.324991px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.00169266"
